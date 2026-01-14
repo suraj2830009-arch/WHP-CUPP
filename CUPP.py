@@ -39,7 +39,7 @@ import time
 
 __author__ = "Suraj"
 __license__ = "GPL"
-__version__ = "3.3.1"
+__version__ = "4.0"
 
 CONFIG = {}
 
@@ -1013,9 +1013,9 @@ def mkdir_if_not_exists(dire):
 
 # the main function
 def main():
-    """Command-line interface to the cupp utility"""
+    """Command-line interface to the Cupp utility"""
 
-    read_config(os.path.join(os.path.dirname(os.path.realpath(__file__)), "cupp.cfg"))
+    read_config(os.path.join(os.path.dirname(os.path.realpath(__file__)), "Cupp.cfg"))
 
     parser = get_parser()
     args = parser.parse_args()
