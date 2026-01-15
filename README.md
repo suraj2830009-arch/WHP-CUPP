@@ -23,12 +23,12 @@ Requirements
 
 You need Python 3 to run CUPP.
 
-Quick start and setup
+Quick start and setup for kali linux
 -----------
 
-     sudo apt update 
+    sudo apt update 
     
-     apt install git python3 curl wget -y
+    apt install git python3 curl wget -y
     
     git clone https://github.com/suraj2830009-arch/WHP-CUPP.git
     
@@ -39,7 +39,22 @@ Quick start and setup
     python3 WHP-CUPP.py -h
 
     python3 WHP-CUPP.py
+
+Quick setup for termux
+-----------
+    pkg update && upgrade -y
+
+    pkg install git curl wget python -y
+
+    git clone https://github.com/suraj2830009-arch/WHP-CUPP.git
     
+    cd WHP-CUPP
+    
+    chmod  +x *
+    
+    python WHP-CUPP.py -h
+
+    python WHP-CUPP.py
 ## Options
 
   Usage: WHP-CUPP.py [OPTIONS]
