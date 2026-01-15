@@ -40,7 +40,7 @@ Quick start and setup for kali linux
 
     python3 WHP-CUPP.py
 
-Quick setup for termux
+Quick start and setup for termux
 -----------
     pkg update && upgrade -y
 
