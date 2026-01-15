@@ -40,7 +40,7 @@ Quick start and setup
     
 ## Options
 
-  Usage: CUPP.py [OPTIONS]
+  Usage: WHP-CUPP.py [OPTIONS]
 
         -h      this menu
 
