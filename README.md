@@ -30,7 +30,7 @@ Quick start and setup
     
      apt install git python3 curl wget -y
     
-    git clone https://github.com/suraj2830009-arch/CUPP.git
+    git clone https://github.com/suraj2830009-arch/WHP-CUPP.git
     
     cd CUPP
     
