@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 4.0
+ - make it completely depends on python3
+ - added WHP branding to everywhere
+
 ## 3.2.0-alpha
 
  - ran 2to3 on cupp.py to make it Python3 compatible
