@@ -4,7 +4,7 @@ language: python
   install:
     - pip install coverage python-coveralls
   script:
-    - coverage run ./test_cupp.py
+    - coverage run ./Test_Cupp.py
   after_success:
     - coverage report
     - coveralls
