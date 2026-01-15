@@ -3,7 +3,7 @@
 #  [Program]
 #
 #  WHP - WHITE HAT PRO 
-#  CUPP - Common User Passwords Profiler
+#  CUPP - Common User Passwords Profiles
 #
 #  [Author]
 #
