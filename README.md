@@ -26,17 +26,17 @@ You need Python 3 to run CUPP.
 Quick start and setup
 -----------
 
-    $ sudo apt update 
+     sudo apt update 
     
-    $ apt install git python3 curl wget -y
+     apt install git python3 curl wget -y
     
-    $ git clone https://github.com/suraj2830009-arch/CUPP.git
+    git clone https://github.com/suraj2830009-arch/CUPP.git
     
-    $ cd CUPP
+    cd CUPP
     
-    $ chmod  +x *
+    chmod  +x *
     
-    $ python3 CUPP.py -h
+    python3 CUPP.py -h
     
 ## Options
 
