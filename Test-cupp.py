@@ -30,7 +30,7 @@ import os
 import unittest
 from unittest.mock import patch
 
-from WHP-CUPP import *
+from WHPCUPP import *
 
 
 class TestCupp(unittest.TestCase):
